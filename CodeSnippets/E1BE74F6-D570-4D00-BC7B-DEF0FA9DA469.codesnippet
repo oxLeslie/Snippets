@@ -9,7 +9,8 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>printf("retain count = %ld\n",CFGetRetainCount((__bridge CFTypeRef)(&lt;#obj#&gt;)));</string>
+	<string>printf("retain count = %ld\n",CFGetRetainCount((__bridge CFTypeRef)(&lt;#obj#&gt;)));
+</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E1BE74F6-D570-4D00-BC7B-DEF0FA9DA469</string>
 	<key>IDECodeSnippetLanguage</key>
